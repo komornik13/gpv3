@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/komornik13/gpv3/refs/heads/main/overlay.png
+https://github.com/komornik13/gpv3/blob/main/overlay.png?raw=true
